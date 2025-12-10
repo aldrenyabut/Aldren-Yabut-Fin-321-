@@ -18,34 +18,52 @@ Our company expects to receive €4.5 million in 12 months, creating exposure to
 
 # INPUT VARIABLES
 FC_AMT = 4,500,000
+
 Spot = 1.1566
+
 Forward = 1.0890
+
 r_USD = 4.80%
+
 r_EUR = 3.50%
+
 K_put = 1.16
+
 K_call = 1.18
+
 Premium_put = 0.017
+
 Premium_call = 0.022
+
 T_days = 365
 
 # SPREADSHEET REQUIREMENTS
 Use named ranges.
 Yellow → Inputs / decision variables
+
 Blue → Assumptions (interest rates, maturity, conventions)
+
 Green → Formulas & calculations
+
 Gray → Outputs, KPIs, final USD proceeds
 
 # MODEL LOGIC
 Forward_Hedge_USD = FC_AMT * F0_in
 
 MM_EUR_PV = FC_AMT / (1 + R_FC)
+
 MM_USD_Today = MM_EUR_PV * S0_in
+
 MM_Final_USD = MM_USD_Today * (1 + R_USD)
 
 For each S_T in sensitivity_range:
+    
     Unhedged = FC_AMT * S_T
+    
     PutPayoff = MAX(K_PUT - S_T, 0)
+    
     CallPayoff = MAX(S_T - K_CALL, 0)
+    
     Option_Result = Unhedged + PutPayoff - CallPayoff - (PREM_PUT + PREM_CALL)
     
 # VERIFICATION
