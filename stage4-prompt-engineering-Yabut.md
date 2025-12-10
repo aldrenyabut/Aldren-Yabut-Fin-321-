@@ -1,7 +1,9 @@
 # Stage 4 - Structured AI Prompt
 
 Created by: Aldren Yabut
+
 Role: Financial Analyst / Treasury Analyst
+
 Audience: CFO / Directory of Treasury
 
 # GOAL
