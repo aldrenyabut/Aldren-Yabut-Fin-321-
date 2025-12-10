@@ -1,6 +1,8 @@
-# Sample Stage 4 Prompt (with GitHub Integration)
+# Stage 4 - Structured AI Prompt
 
-You are a financial modeling assistant.
+Created by: Aldren Yabut
+Role: Financial Analyst / Treasury Analyst
+Audience: CFO / Directory of Treasury
 
 # GOAL
 Create a fully functional Excel workbook that models and compares three FX hedging strategies Forward Contract, Money Market Hedge, and Currency Options for a €4.5 million receivable due in 1 year. The spreadsheet must follow strict modeling, naming, color-coding, and auditability requirements.
