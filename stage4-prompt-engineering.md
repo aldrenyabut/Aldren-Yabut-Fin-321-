@@ -61,6 +61,10 @@ Return a downloadable .xlsx Excel file containing:
 - Formatting
 - Named ranges
 
+# Completed Excel File
+[FX_Hedging_Model (1).xlsx](https://github.com/user-attachments/files/24067201/FX_Hedging_Model.1.xlsx)
+
+
 Full auditability```
 
 
