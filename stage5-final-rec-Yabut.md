@@ -17,7 +17,7 @@ https://github.com/aldrenyabut/Aldren-Yabut-Fin-321-/blob/main/stage4-prompt-eng
 ---
 
 ## A. Exposure Summary
-The company is exposed to a €(X) million EUR receivable scheduled for settlement in Month/Year. This foreign-currency exposure creates FX risk, if the EUR depreciates against the USD, the USD value of the receivable falls, reducing expected cash inflows. Conversely, EUR appreciation increases USD receipts, but leaves the company exposed to unfavorable downside moves. Unhedged FX moves could materially impact USD cash flows and budget forecasts for the period.
+The company is exposed to a €4.5 million million EUR receivable scheduled for settlement in 1 Year. This foreign-currency exposure creates FX risk, if the EUR depreciates against the USD, the USD value of the receivable falls, reducing expected cash inflows. Conversely, EUR appreciation increases USD receipts, but leaves the company exposed to unfavorable downside moves. Unhedged FX moves could materially impact USD cash flows and budget forecasts for the period.
 
 ---
 
