@@ -120,7 +120,6 @@ Finance relies on:
 - GitHub Actions for automated testing/validation  
 - Issue tracking for model updates  
 
-Tie this to your Stages 2–4:
 In this project, Stage 2 defined the hedge specifications, Stage 3/4 translated those specs into structured models and AI prompts, and Stage 4 generated the final spreadsheet. By versioning the specifications, model templates, and AI prompts in GitHub, the entire hedge workflow becomes reproducible, transparent, and auditable, enabling consistent model regeneration and review.
 
 ---
