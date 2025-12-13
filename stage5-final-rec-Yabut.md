@@ -91,8 +91,6 @@ Accounting (Optional): Forwards qualify for cash-flow hedge accounting with prop
 
 # Extra Credit (2 points): Areas for Further Study & Improvement
 
-Include at least three of the following:
-
 ---
 
 ## 1. Claude Skills (Automation & Live Data Integration)
